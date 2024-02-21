@@ -1,2 +1,1 @@
-# prepcoursejere
-repositorio de prueba henry
+este proyecto es una prueba de github.
